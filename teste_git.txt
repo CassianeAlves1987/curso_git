@@ -1,3 +1,5 @@
 testando a sincronização com o git.
 
 Primeiro inicializo o repositório
+
+Escrevendo mais coisas para atualizar o git já que está sincronizado.
