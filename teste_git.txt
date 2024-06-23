@@ -1,1 +1,3 @@
 testando a sincronização com o git.
+
+Primeiro inicializo o repositório
