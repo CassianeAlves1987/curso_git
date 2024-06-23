@@ -22,3 +22,6 @@ teste
 teste
 teste
 teste
+
+
+adicionado todos os outros arquivos
