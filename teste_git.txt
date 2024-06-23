@@ -3,3 +3,15 @@ testando a sincronização com o git.
 Primeiro inicializo o repositório
 
 Escrevendo mais coisas para atualizar o git já que está sincronizado.
+
+Aprendendo os comandos do git
+
+1° cria o repositorio e depois inicializa - git init
+2° adiciona um arquivo com algum valor - git add readme.txt
+3° comita -> git commit -m "helloworld"
+4° cria branch main -> git branch -m main 
+5° sincroniza -> git remote add origin "xxxxxxxxxx"
+6° enviar - git push -u origin main
+
+
+subindo coisas
